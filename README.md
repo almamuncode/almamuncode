@@ -3,7 +3,7 @@
 <img src="./assets/Neon Web Developer Portfolio Banner.png" alt="Md Al Mamun - Web Developer & UI Designer" width="100%"/>
 
 <a href="https://www.almamuncool.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=2ED3C6&center=true&vCenter=true&width=640&lines=Junior+Web+Developer;Next.js+%7C+TypeScript+%7C+Node.js+%7C+MongoDB;6%2B+Years+of+UI+%26+Graphic+Design;Design+thinking+%2B+clean+code" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=2ED3C6&center=true&vCenter=true&width=640&lines=Junior+Web+Developer;Next.js+%7C+TypeScript+%7C+Node.js+%7C+MongoDB;8%2B+Years+of+Graphic+%26+UI+Design;Design+thinking+%2B+clean+code" alt="Typing animation" />
 </a>
 
 <br/>
@@ -19,7 +19,7 @@
 
 ## 👋 About Me
 
-I'm a **Junior Web Developer with 6+ years of professional experience in graphic and UI design**, based in Jashore, Bangladesh.
+I'm a **Junior Web Developer with 8+ years of professional experience in graphic and UI design**, based in Jashore, Bangladesh.
 
 I started as a designer, working with restaurants, brands, and agencies, and moved into development to build the products I used to design. Today I build full-stack web applications with **TypeScript, React, Next.js, Node.js, Express, and MongoDB**, and I'm growing my skills in PostgreSQL and authentication.
 
