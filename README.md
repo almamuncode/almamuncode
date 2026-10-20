@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Md Al Mamun - Junior Developer" width="100%"/>
+<img src="./assets/Neon Web Developer Portfolio Banner.png" alt="Md Al Mamun - Junior Developer" width="100%"/>
 
 <br/>
 
